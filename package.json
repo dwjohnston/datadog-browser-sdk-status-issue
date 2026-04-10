@@ -12,6 +12,6 @@
     "vite": "^7.1.6"
   },
   "dependencies": {
-    "@datadog/browser-logs": "6.31.0"
+    "@datadog/browser-logs": "^6.32.0"
   }
 }
